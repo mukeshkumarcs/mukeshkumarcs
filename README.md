@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a seasoned Conversational AI Engineer with **7+ years of experience** in architecting and developing intelligent assistants across platforms and domains. Passionate about delivering AI-powered user interactions that are meaningful, personalized, and efficient.
+I’m a seasoned Conversational AI Engineer with **8+ years of experience** in architecting and developing intelligent assistants across platforms and domains. Passionate about delivering AI-powered user interactions that are meaningful, personalized, and efficient.
 
 💡 I specialize in transforming complex business problems into scalable Conversational AI solutions using the latest advancements in:
 - 🤖 **Agentic AI & Multi-Agent Orchestration**
@@ -43,6 +43,16 @@ I’m a seasoned Conversational AI Engineer with **7+ years of experience** in a
 
 ---
 
+### 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?logo=dialogflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-00A1E0?logo=ibmwatson&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+
+---
+
 ### 🌐 Let's Collaborate
 
 - 💬 I'm open to **remote contract opportunities**, especially in AI product R&D, consulting, or LLM agent design
@@ -68,9 +78,12 @@ I’m a seasoned Conversational AI Engineer with **7+ years of experience** in a
 
 ---
 
-### 🏆 GitHub Trophies
+### 🧭 Career Timeline
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mukeshkumar&theme=flat&column=7)
+- 🟩 **2023–Present**: Lead Conversational AI Engineer – Amplify.ai by Triller
+- 🟨 **2020–2023**: Senior Conversational AI Engineer – Amplify.ai by Triller
+- 🟦 **2017–2020**: Conversational AI Engineer – Amplify.ai by Triller
+- 🟫 **2015–2017**: Java Developer – Codec Networks Private Limited
 
 ---
 
@@ -79,4 +92,7 @@ I’m a seasoned Conversational AI Engineer with **7+ years of experience** in a
 > "The future belongs to those who automate it. Agentic AI isn't the end of interaction design—it's a new beginning."
 
 ---
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
 
