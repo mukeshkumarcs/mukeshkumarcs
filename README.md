@@ -72,9 +72,9 @@ I’m a seasoned Conversational AI Engineer with **8+ years of experience** in a
 
 ### 📊 GitHub Activity & Stats
 
-![Mukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukeshkumar&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkumar&layout=compact&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukeshkumar)
+![Mukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukeshkumarcs&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshkumarcs&layout=compact&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukeshkumarcs)
 
 ---
 
