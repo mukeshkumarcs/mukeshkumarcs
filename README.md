@@ -28,7 +28,7 @@ I’m a seasoned Conversational AI Engineer with **7+ years of experience** in a
 
 ### 🧠 Areas of Expertise
 
-- **Conversational AI Frameworks**: Dialogflow CX/ES, Amazon Lex, Microsoft Bot Framework, IBM Watson Assistant, Kore.ai, Cognigy
+- **Conversational AI Frameworks**: Dialogflow CX/ES, Amazon Lex, IBM Watson Assistant, Kore.ai, Cognigy
 - **Generative & Agentic AI**: OpenAI GPT-4, AgentGPT, LangChain, AutoGen, CrewAI, Semantic Kernel
 - **NLP & ML**: SpaCy, HuggingFace Transformers, Scikit-learn, OpenCV, TTS/STT, Sentiment & Intent Analysis
 - **Voice Interfaces**: Google Speech-to-Text, Azure Cognitive Services, Alexa Skills Kit
