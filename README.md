@@ -19,7 +19,7 @@ I’m a seasoned Conversational AI Engineer with **8+ years of experience** in a
 
 ### 💼 Currently
 
-- Leading **Conversational AI initiatives** as a Manager at a cutting-edge AI firm  
+- Leading **Conversational AI initiatives** in a lead position at a cutting-edge AI firm  
 - Exploring **LLM-enhanced agent frameworks** to empower autonomous task execution  
 - Designing and deploying production-grade bots using **multi-cloud architecture**  
 - Actively collaborating with cross-functional teams to improve **user engagement, retention, and satisfaction**
